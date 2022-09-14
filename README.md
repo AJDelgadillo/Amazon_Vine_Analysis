@@ -51,3 +51,5 @@ The calculations used for this analysis can be seen in the image below:
 From this report I would suggest that there is not any positivity bias influenced by the Vine program. There were 0 reviews having over 20 helpful votes posted as part of the Vine program. 
 
 However, when analyzing reviews posted by users unaffiliated with the Vine program I found that approximately 60% of the helpful reviews had a 5-star rating. From these calculations I would argue that the Vine program is underutilized for the products in this dataset. I would also conclude that the products are generally well-liked by regular customers. 
+
+To expand on this study I would repeat the analysis on reviews that were not voted as ‘helpful.’ It’s possible that the reviews posted as part of the Vine program were not well-received by the other customers. It could be helpful to analyze these reviews to find out how we can improve the Vine program. 
