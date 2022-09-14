@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 # Overview of the analysis: 
-The purpose of this assignment is to analyze a dataset of amazon reviews and decide whether or not the positive reviews were biased due to being part of a paid program, called Vine.
+The purpose of this assignment is to analyze a dataset of amazon reviews and decide whether or not the positive reviews were biased due to being part of a paid program, called Vine. For the assignment I focused on the dataset titled amazon_reviews_us_Books_v1_02.
 
 First, I created an RDS database in AWS - Amazons cloud service - which was then linked to PGAdmin on my computer.  In PGAdmin I created tables to hold the customers, products, reviews, and Vine data.
 
